@@ -20,7 +20,8 @@ A hackintosh should only be created for the purpose of testing the macOS system 
 - **No fingerprint sensor**
 
 ## Bios configuration:
-
+Set video memory allocation to: Automatic
+Temporarily disable secure boot.
 ## What works:
 - Trackpad with gestures
 - Touchscreen with gestures
