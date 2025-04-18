@@ -1,5 +1,8 @@
 # EliteBook-645-G9-OpenCore
 HP EliteBook 645 G9 Hackintosh with OpenCore configuration.
+## Tested Operating Systems:
+- MacOS Sonoma 14.7.3
+- MacOS Sequoia 15.3.1 (WiFi works only with Heliport)
 ## Hardware configuration:
 - **CPU** AMD Ryzen 5 5675U
 - **RAM** 32GB DDR4 3200MHz
