@@ -41,3 +41,15 @@ HP EliteBook 645 G9 Hackintosh with OpenCore configuration.
 
 ## Screenshots:
 ![View](https://github.com/user-attachments/assets/4c0c9fdb-d0fe-4f36-9214-b0ad4707821c)
+
+![Geekbench CPU](https://github.com/user-attachments/assets/8b5e217f-9c23-4821-900f-1e68a54f628f)
+
+![Geekbench GPU](https://github.com/user-attachments/assets/1448604f-a548-4809-a94d-920752be8f89)
+
+![Battery](https://github.com/user-attachments/assets/75643bb4-75ad-4e23-b983-dec94b72e7e2)
+
+![CPU Usage](https://github.com/user-attachments/assets/d0d48479-63f5-4b55-aab6-e1708f3e2256)
+
+![RAM Usage](https://github.com/user-attachments/assets/0a3249f8-4515-450d-8f93-9f40da73af1c)
+
+![Disk Usage](https://github.com/user-attachments/assets/dac30695-ecd0-4bf9-98a7-ffac25d961bd)
