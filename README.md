@@ -1,6 +1,7 @@
 # EliteBook-645-G9-OpenCore
-HP EliteBook 645 G9 Hackintosh with OpenCore configuration.
-**Disclaimer:** This configuration is unstable and has been made for purely experimental/educational purposes.
+HP EliteBook 645 G9 Hackintosh with OpenCore configuration.<br>
+### Disclaimer:
+This configuration is unstable and has been made for purely experimental/educational purposes.<br>
 A hackintosh should only be created for the purpose of testing the macOS system in prevision of the purchase of an original Mac, and should not replace such a device.
 
 ## Tested Operating Systems:
